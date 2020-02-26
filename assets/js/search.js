@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://adityak2920.github.io/about/",
     "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "body": " My name is Aditya Kumar. I am a 3rd year undegraduate engineering student in Electronics and Communication Engineering from USICT(GGSIPU), New Delhi. My main competencies are Deep Learning, Computer Vision and Machine Learning. "
     }, {
     "id": 2,
     "url": "https://adityak2920.github.io/categories/",
