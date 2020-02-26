@@ -160,7 +160,7 @@
 </h2>
 <p>In July 2019 a paper from google came to show, how we can use data augmentation on unlabeled data to improve accuracy. 
    Now, In this paper they proposed a method for training called Unsupervised Data Augmentation. In this method they are using
-<img src="https://raw.githubusercontent.com/adityak2920/data/master/images/USDA.png" alt="Unsupervised" title="Unsupervised Data Augmentation">
+<img src="https://raw.githubusercontent.com/adityak2920/aiblog/master/images/USDA.png" alt="" title="Unsupervised Data Augmentation">
 both labelled and unlabelled data for training with a loss function combining both the loss functions from data. One loss function function is computed from labelled data by supervised learning methods and the other loss is computed from consistency training by enforcing a model to predict similar predictions from augmented and unaugmented unlabelled data. The same model is used for computing both the loss function. The loss which we are getting from unlablled data is called Consistency Loss or Noise Contrastive Estimation. From statistical point, it is basically distance between two prediction distribution. The pretext tasks messes with data in different ways through augmentation but we always want that the prediction with original and messed should be same and the intermediate representation should also be consistent, otherwise it will affect our predictions. At final, we add both the loss functions to train beacuse it penalizes our model for getting different prediction for differnt version of the same data.</p>
 <h2 id="Credits">
 <a class="anchor" href="#Credits" aria-hidden="true"><span class="octicon octicon-link"></span></a>Credits<a class="anchor-link" href="#Credits">¶</a>
