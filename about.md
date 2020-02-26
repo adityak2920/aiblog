@@ -4,10 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+<img src="https://raw.githubusercontent.com/adityak2920/dailyblogs/master/images/p2.png" width="260" height="250"> 
+My name is Aditya Kumar. I am a 3rd year undegraduate engineering student in Electronics and Communication Engineering from USICT(GGSIPU), New Delhi. My main competencies are Deep Learning, Computer Vision and Machine Learning.
