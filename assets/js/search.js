@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "https://adityak2920.github.io/object%20detection/vision/2020/03/18/FasterRCNN.html",
     "title": "Faster RCNN",
-    "body": "2020/03/18 -           "
+    "body": "2020/03/18 -           Introduction : Object detection is one of the areas of computer vision that is maturing very rapidly. "
     }, {
     "id": 5,
     "url": "https://adityak2920.github.io/self-supervised/vision/2020/02/26/SSL.html",
