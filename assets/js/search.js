@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://adityak2920.github.io/about/",
     "title": "About Me",
-    "body": " My name is Aditya Kumar. I am a 3rd year undegraduate engineering student in Electronics and Communication Engineering from USICT(GGSIPU), New Delhi. My main competencies are Deep Learning, Computer Vision and Machine Learning. "
+    "body": " My name is Aditya Kumar. I am a 3rd year undegraduate in Electronics and Communication Engineering from USICT(GGSIPU), New Delhi. My main competencies are Deep Learning, Computer Vision and Machine Learning. I like to experiment with maths behind deep learning algorithms. "
     }, {
     "id": 2,
     "url": "https://adityak2920.github.io/categories/",
