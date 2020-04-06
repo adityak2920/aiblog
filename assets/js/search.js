@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "https://adityak2920.github.io/object%20detection/vision/2020/03/18/FasterRCNN.html",
     "title": "Faster RCNN",
-    "body": "2020/03/18 -           Introduction : Object detection is one of the areas of computer vision that is maturing very rapidly. "
+    "body": "2020/03/18 -           Introduction : Object detection is one of the areas of computer vision that is maturing very rapidly. In the last few years we have seen a lot of new Object Detection Algorithms. There are mainly two types of Object Detection Algorithms: Two Stage Detector: In two stage detectors, we have a region proposal network for localization and then classification head for classifying the localized object. Here the accuracies are high as compared to one stage detectors but speed is quite slow. One Stage Detector: In one stage detectors, we have a fully convolutional neural network doing localization and classfication. Work in Progress : "
     }, {
     "id": 5,
     "url": "https://adityak2920.github.io/self-supervised/vision/2020/02/26/SSL.html",
